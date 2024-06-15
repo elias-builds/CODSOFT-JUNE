@@ -1,2 +1,2 @@
-## CODSOFT-JUNE
-# Projects done during summer internship.
+# CODSOFT-JUNE
+## Projects done during summer internship.
