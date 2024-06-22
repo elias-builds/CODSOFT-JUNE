@@ -34,3 +34,5 @@
 - Gained invaluable expertise in Python, Pandas, NumPy, and Scikit-learn throughout the project. 🐍📚
 
 - Implemented Logistic Regression and Random Forest Algorithms to train model.
+
+- For dataset, you can visit and download from this website: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
